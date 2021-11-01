@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CapaNegocio.Persona" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAACAAAQAAAAEAEAAAABAAIBAABCAAAAQACiAAAA=</HashCode>
+      <FileName>Persona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaNegocio.JefeAlmacen" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIIAAACBAEAAAAAAAAACAAAAAAAAABAAAAAQAAAAA=</HashCode>
+      <FileName>JefeAlmacen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaNegocio.Tecnico" Collapsed="true">
+    <Position X="8.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAIAAAACAIAAAAAAAAAAAkAAAAAAABgAAAAIAE=</HashCode>
+      <FileName>Tecnico.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaNegocio.Trabajador" Collapsed="true">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgACBAAAAAAAAEAAAAAAAAAAgAACAAAEAAAAAAIAQ=</HashCode>
+      <FileName>Trabajador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaNegocio.Vendedor" Collapsed="true">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEACgAAAABAAgAAQAABAAAAAQAAAAA=</HashCode>
+      <FileName>Vendedor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaNegocio.Distribuidor" Collapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAECAABAAgAQQQ=</HashCode>
+      <FileName>Distribuidor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
